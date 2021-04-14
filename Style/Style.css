@@ -1,0 +1,15 @@
+.estiloFoto{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+}
+
+#fotoTeste{
+    background-image: url("https://img.freepik.com/vetores-gratis/padrao-sem-emenda-com-coisas-de-cachorro-colar-tigela-bolas-ossos-pegadas-e-a-recompensa_100959-76.jpg?size=626&ext=jpg");
+}
+
+#card{
+    position: relative;
+    left: 25rem;
+}
+
